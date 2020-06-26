@@ -2,7 +2,7 @@
 Test Page showing google sheet listing things
 
 <nav>
-<a href="BullsGame.jpg">Picture 2</a>
+<a href="BullsGame.JPG">Picture 2</a>
 <a href="me_in_hue.jpg">Picture 1</a>
 
 </nav>
