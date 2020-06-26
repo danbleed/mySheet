@@ -1,0 +1,11 @@
+[
+ {
+   "Item": "Fridge",
+   "Description": "This is description of fridge.",
+ },  
+ {  
+   "Item": "Blender",
+   "Description": "This is description of blender."
+   
+ }
+]
